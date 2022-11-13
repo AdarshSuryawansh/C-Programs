@@ -9,7 +9,7 @@ int main()
      {
        printf("\n%d",i);
        printf("\n WELCOME");
-       printf("\n\t I Love India")
+       printf("\n\t I Love India");
        i++;
      }
      
